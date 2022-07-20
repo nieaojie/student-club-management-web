@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "637606",
+      "name": "LC_icon_user_fill_1",
+      "font_class": "LC_icon_user_fill_1",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "7712708",
+      "name": "password",
+      "font_class": "password",
+      "unicode": "e734",
+      "unicode_decimal": 59188
+    }
+  ]
+}
